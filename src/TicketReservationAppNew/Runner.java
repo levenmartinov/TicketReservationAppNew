@@ -4,7 +4,7 @@ public class Runner {
     public static void main(String[] args) {
 
         //1 otobus olustur
-        Bus bus = new Bus("16NL0107", 41, "London to Liverpool", "07:00 PM");
+        Bus bus = new Bus("16NL0107", 41, "From London to Liverpool", "07:00 PM");
 
         //2 yolcu olustur
         Passenger passenger = new Passenger("Michel Jordan", 38);
